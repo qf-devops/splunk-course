@@ -1,8 +1,15 @@
 domain1:
+setup labs:
 https://docs.google.com/document/d/1PiHcXLJ93zOmeY-1BToRr-X0Az4vt7UWMN1rQBw7luI/edit
 
 domain2: 
+ getting started with Splunk
    https://docs.google.com/document/d/137z48GMwp4okkvAZhxUD-TXaS9z93N-FaqyUq7IB6uQ/edit?usp=sharing
+
+domain3:
+  architecture components
+   https://docs.google.com/document/d/1MwNqij-7PsEhopvmFwyB2s2PThpUczz4Uas0VZ3Gpm0/edit?usp=sharing
+
 
 
 docker run -itd -P splunk/splunk:latest
