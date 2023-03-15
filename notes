@@ -10,6 +10,9 @@ domain3:
   architecture components
    https://docs.google.com/document/d/1MwNqij-7PsEhopvmFwyB2s2PThpUczz4Uas0VZ3Gpm0/edit?usp=sharing
 
+domain4:
+   splunk forwarder:
+      https://docs.google.com/document/d/1b8oVRsss4g7eDyhn1QegX9n2OtVuBmk5L3vGrs6og9Q/edit?usp=sharing
 
 
 splunk with docker
