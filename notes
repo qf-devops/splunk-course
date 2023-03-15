@@ -2,3 +2,8 @@ https://docs.google.com/document/d/1PiHcXLJ93zOmeY-1BToRr-X0Az4vt7UWMN1rQBw7luI/
 
 
 docker run -itd -P splunk/splunk:latest
+
+
+
+data lifecycle phases
+https://conf.splunk.com/files/2017/slides/splunk-data-life-cycle-determining-when-and-where-to-roll-data.pdf
