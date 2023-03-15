@@ -14,6 +14,25 @@ domain4:
    splunk forwarder:
       https://docs.google.com/document/d/1b8oVRsss4g7eDyhn1QegX9n2OtVuBmk5L3vGrs6og9Q/edit?usp=sharing
 
+Domain5:
+  post installation:
+    https://docs.google.com/document/d/1JTjzjY3UiGr8xCsjkxI6UPhy6d3-KwParM04MHEZX-4/edit?usp=sharing
+
+Domain6:
+   security Primer:
+      https://docs.google.com/document/d/1kDuvq0XVtWtXt7WlmVO8S8Q07LOBupaW8JziACGGXu8/edit?usp=sharing
+
+Domain7:
+  splunk destributed architecture
+    https://docs.google.com/document/d/1U1dxnzchvnBVwvk_GYfSEsFcX4wvrB1_hcZCKgd952g/edit?usp=sharing
+
+Domain8:
+   Indexer clustering
+      https://docs.google.com/document/d/1iCe8PqIRsYdEwjZbqlQD471K6WC6GbcjoVYpwwQFmps/edit?usp=sharing
+
+
+
+   
 
 splunk with docker
 $ docker run -d -p 8000:8000 -e "SPLUNK_START_ARGS=--accept-license" -e "SPLUNK_PASSWORD=<password>" --name splunk splunk/splunk:latest
