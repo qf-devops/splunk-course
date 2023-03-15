@@ -1,6 +1,9 @@
 domain1:
 https://docs.google.com/document/d/1PiHcXLJ93zOmeY-1BToRr-X0Az4vt7UWMN1rQBw7luI/edit
 
+domain2: 
+   https://docs.google.com/document/d/137z48GMwp4okkvAZhxUD-TXaS9z93N-FaqyUq7IB6uQ/edit?usp=sharing
+
 
 docker run -itd -P splunk/splunk:latest
 
